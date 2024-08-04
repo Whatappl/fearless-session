@@ -68,9 +68,9 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/2349137895828 👈
+Wanna talk to me?👉 https://t.me/Fearless_Techi👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 FEARLESS TECH*
+©*2024-3099 FEARLESS TECH*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
