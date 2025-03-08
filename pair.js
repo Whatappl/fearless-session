@@ -1,5 +1,5 @@
 const PastebinAPI = require('pastebin-js'),
-pastebin = new PastebinAPI('0029VafEg1mIyPtLXQjAbz3k')
+pastebin = new PastebinAPI('0029Vb8na0X7dmeY1ZhcFh2D')
 const {makeid} = require('./id');
 const express = require('express');
 const fs = require('fs');
@@ -58,17 +58,17 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃FEARLESS_MD_V1 SESSION IS 
+┃QUEEN-SMILEY_MD_V1 SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED ✅💗
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 KING FEARLESS 𖥘
+❶ || Creator = 𖥘 KING JAY 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/Fearless_Techi👈
+Wanna talk to me?🫟 +27 68 083 7873🫟
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-3099 FEARLESS TECH*
 
