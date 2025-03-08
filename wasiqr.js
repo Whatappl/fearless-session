@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?  👈
+Wanna talk to me? +27 68 083 7873 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 KING JAY*
 _____________________________________
