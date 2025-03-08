@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃FEARLESS_MD_V1 SESSION IS 
+┃QUEEN-SMILEY_MD_V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 KING FEARLESS 𖥘
+❶ || Creator = 𖥘 KING JAY 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/Fearless_Techi 👈
+Wanna talk to me?  👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 KING FEARLESS*
+©*2024-2099 KING JAY*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
