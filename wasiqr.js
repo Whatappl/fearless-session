@@ -1,5 +1,5 @@
 const PastebinAPI = require('pastebin-js'),
-pastebin = new PastebinAPI('0029VafEg1mIyPtLXQjAbz3k')
+pastebin = new PastebinAPI('0029Vb8na0X7dmeY1ZhcFh2D')
 const {makeid} = require('./id');
 const QRCode = require('qrcode');
 const express = require('express');
