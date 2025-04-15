@@ -60,14 +60,14 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN-SMILEY_MD_V1 SESSION IS 
+┃JAY-JAY_MD_V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅💗
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 KING JAY 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VbAQA6i7T8bOoiS3Hj3Q
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?🫟 +27 68 083 7873 🫟
